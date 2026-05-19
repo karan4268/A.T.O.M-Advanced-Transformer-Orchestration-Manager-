@@ -6,7 +6,7 @@ It leverages **two local LLM models (configurable to your choice)** for planning
 All the chats and temporary and can only be saved on your system if you give command /remember or session_save.
 Web sreach agentic tasks require internet (you can use any api of your choice just edit the web_search.py and add api key into your enve.)
 
-> ⚠️ This project is under active development. Some features are still a work in progress and contains Hardcoded file paths. if you wish to use this, pls configure according tp your system specs and file loactions. :)
+> ⚠️ This project is under active development. Some features are still a work in progress and contains Hardcoded file paths. if you wish to use this, pls configure according to your system specs and file loactions. :)
 
 ---
 
