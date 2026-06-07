@@ -57,7 +57,7 @@ f"color:rgb({r},{g},{b}); margin:0; line-height:1.35;'>"
 f"</pre>"
 f"<div style='color:rgb({r},{g},{b}); font-family:Orbitron,monospace; font-size:8pt; "
 f"letter-spacing:0.12em; margin-top:6px;'>"
-f"&gt;&gt;&gt;  ADVANCED TASK ORIENTED MODEL   &lt;&lt;&lt;"
+f"&gt;&gt;&gt; | ADVANED-TRANSFORMER-ORCHESTRATION-MANAGER |   &lt;&lt;&lt;"
 f"</div></div>"
 
     )
