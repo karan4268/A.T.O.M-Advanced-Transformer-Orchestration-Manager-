@@ -1,12 +1,10 @@
-# A.T.O.M – ADVANCED TASK ORIENTED MODEL
+# A.T.O.M – Advanced Transformer Orchestration Manager 
 
-A.T.O.M (Advanced Task Oriented Model) is a platform to run local llm on your computers designed to run fully offline on Windows PCs. No data leaves your system.
+A.T.O.M (Advanced Transformer Orchestration Manager) is a local AI assistant designed to run fully offline on Windows PCs.
 Inspired by futuristic aesthetics, A.T.O.M combines voice recognition, speech synthesis, and intelligent agentic task execution with a visually stunning interface.
-It leverages **two local LLM models (configurable to your choice)** for planning, reasoning, and conversation — with no cloud services required.
-All the chats and temporary and can only be saved on your system if you give command /remember or session_save.
-Web sreach agentic tasks require internet (you can use any api of your choice just edit the web_search.py and add api key into your enve.)
+It leverages **two local LLM models** for planning, reasoning, and conversation — with no cloud services required.
 
-> ⚠️ This project is under active development. Some features are still a work in progress and contains Hardcoded file paths. if you wish to use this, pls configure according to your system specs and file loactions. :)
+> ⚠️ This project is under active development. Some features are still a work in progress.
 
 ---
 
@@ -115,10 +113,8 @@ Phi handles everything that doesn't need the loop, keeping GPU memory free.
 
 - Python 3.10+
 - CUDA-capable GPU recommended (4GB minimum and 6–8 GB VRAM Recommend for Mistral on GPU)
-
-- **Note**:-
-- Change model Token and context values in local_engine.py and Agent.py if your GPU has more VRAM.
-- you can also incres ReAct loop steps accordingly but 4 is the sweet spot.
+- note:-
+- change model Token and context values in local_engine.py and Agent.py if your GPU has more VRAM.
 - You can also run Phi on GPU but its not stable due to ctransformers threading issues with two GGUF models on windows.
 - [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) built with CUDA support
 
@@ -179,7 +175,6 @@ python UI_atom.py
 | **Shell** | `run command ipconfig` |
 | **System Monitoring** | Click circular progress bars to view CPU or RAM waveforms |
 
-
 ---
 
 # ♦️ Dependencies
@@ -219,7 +214,6 @@ A.T.O.M/
 Contributions are welcome! You can:
 
 - Improve the UI/UX
-- Fixing dual model laoding on GPU
 - Add new voice commands or tools
 - Optimise system monitoring
 - Add support for additional local LLMs
