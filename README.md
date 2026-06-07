@@ -75,7 +75,7 @@ Phi handles everything that doesn't need the loop, keeping GPU memory free.
 
 ## 🔶 Splash Screen
 
-![Splash Screen](https://github.com/user-attachments/assets/9e0b61d6-be82-4d8e-ac17-5ca4f588f970)
+![Splash Screen](https://github.com/user-attachments/assets/dfd3bda7-637d-4f28-bc5c-2d0b04c519c4)
 
 ## 🔶 Main UI
 
