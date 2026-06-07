@@ -6,7 +6,7 @@ Splash now offers:
   2. Download Mistral (agent reasoning model — recommended for full agentic use)
   3. Use existing folder
 
-Fixes applied (v2):
+Fixes applied (v3):
   1. _mistral_download_thread: was importing download_mistral from local_engine
      (wrong module) — fixed to import from agent_model where it's actually defined.
   2. _load_mistral_thread: was logging status but never calling load_agent_model() —
@@ -98,7 +98,7 @@ class SplashScreen(QWidget):
         title.setStyleSheet("color: rgb(77, 255, 219);")
         layout.addWidget(title)
 
-        sub = QLabel("Advanced Task Oriented Model")
+        sub = QLabel("Advanced-Transformer-Orchestration-Manager")
         sub.setFont(QFont("Orbitron", 9))
         sub.setStyleSheet("color: rgba(77,255,219,0.6);")
         layout.addWidget(sub)
