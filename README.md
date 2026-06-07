@@ -96,8 +96,9 @@ Phi handles everything that doesn't need the loop, keeping GPU memory free.
 ![New Agentic Loop](https://github.com/user-attachments/assets/e891160f-a261-48c2-ba82-71be92af9cd8)
 ![](https://github.com/user-attachments/assets/008558a7-f2bf-4978-8b27-2e914c18c6ec)
 ![light coding](https://github.com/user-attachments/assets/398b328f-9b5c-433d-9da1-899b81536998)
-![Chat Mode](https://github.com/user-attachments/assets/f548b9f4-d3a7-4bf3-915c-69634d6a5b66)
-![Chat Mode](https://github.com/user-attachments/assets/67ca33d0-cbc9-46a8-9217-13e07d8861a9)
+![Chat Mode](https://github.com/user-attachments/assets/2186048c-7333-490e-bc3f-ae684c9b41f5)
+![Chat Mode](https://github.com/user-attachments/assets/b9cc59bf-be1b-4f1f-ba58-30a762a70561)
+![Chat Mode](https://github.com/user-attachments/assets/af638978-afca-44f6-b4ca-c331e543270a)
 
 ---
 
